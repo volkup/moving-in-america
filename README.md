@@ -8,7 +8,7 @@ date: "2023-02-13"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Estimating the number of people that move
+## Estimating the number of people that move in the United States
 
 Using data from Annual Social and Economic Supplement to the Current Population Survey, as provided by IPUMS, let's estimate the number of people in the United States who move residence for each of the last twenty-odd years.
 
